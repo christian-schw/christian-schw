@@ -1,10 +1,38 @@
-TODO: Optimize README.md
+# About me
+Hello visitor!<br />
+I'm Christian.<br />
+<br />
+I am an SAP developer in Germany.<br />
+In my spare time I do web development and other things (for example Python projects).<br />
+<br />
+For more information about myself, see my website: http://www.christian-schwanse.com<br />
+<br />
+I am open to job offers!<br />
+You can reach me at: christian-schwanse (at) gmx.net<br />
 
-- 👋 Hi, I’m Chris aka CrazyChair69!
-- 🌱 I currently work as an SAP developer and develop websites in my spare time, depending on my mood.
-- 👀 I’m interested in sports like volleyball and soccer, gaming, animes and many other things.
-- 💞️ I'll appreciate your help!
-- 📫 How to reach me: Christianschwanse@gmx.de
+## Work
+- **Bock 1 GmbH & Co. KG**: Currently employed as an SAP developer. Completed training as an IT specialist in application development at Bock. My specialization is in the area of SAP. Projects included the SAP rollout in Canada, dynamic programming, form development (Adobe Forms) in all possible SAP modules as well as interface management between SAP and the Quipsy QM software.
+- **Silberhorn Blechtechnik GmbH**: Internship in quality management
+- **Gymnasium Parsberg**: Intership in the secretarial department
+- **Several mini-jobs** (e.g. as a cashier).... the money had to come from somewhere during my studies :wink:
+## Education
+- **Study: Business Informatics**. Studied for a couple of semesters and then voluntarily dropped out due to lack of practical experience.
+- **Study: Business Psychology**. Studied for a couple of semesters and then voluntarily dropped out due to lack of practical experience.
+- **SAP Press Books**: Read and implemented several SAP books (e. g. "ABAP - Das umfassende Handbuch", "SAP Interactive Forms by Adobe", "ABAP-Entwicklung in Eclipse", ...)
+- **Certificate: "ABAP für Fortgeschrittene"** from Technische Hochschule Brandenburg
+- **Certificate: "Computational Thinking using Python"** from Massachussets Institute of Technology (MITx) on platform Edx
+- **Certificate: "Human-Computer-Interaction I: Fundamentals & Design Principles"** from Georgia Tech (GTx) on platform Edx
+- **Certificate: "First Aid"** from volunteer fire department
+- **Certificate: "Front-End Web Developer"** from World Wide Web Consortium (W3Cx) on platform Edx
+
+## Interests & Hobbies
+- **Soccer**: I enjoy playing and following football. However, many years ago I had to end my career in the farmers' league due to an injury.
+- **Volleyball**: My love of volleyball blossomed during my time in the school team. I now often play beach volleyball with friends in the summer and am also active in the recreational volleyball team TV Velburg.
+- **Fire Department**: Growing up as a member of the volunteer fire department in my own village. More active as a passive member. Exception: Fire department festivals to actively support the village in putting out "fires". :wink:
+- **Gaming & Animes**: I spent a lot of my childhood and youth playing video games. Whether it was Pokemon, Mario, Call of Duty or Dark Souls - it was all there. These days, I rarely play games. I also watch all kinds of anime. My favorites: One Piece, Naruto, Bleach, HunterxHunter, World Trigger and Code Geass.
+- **Psychology**: I find it very interesting how people perceive the world, communicate with each other and form their identities over the course of their lives. How hormones and our situation influence our thoughts, feelings and actions, both consciously and unconsciously.
+- **Health & Nutrition**: There are many things about the human body that fascinate me. In addition to psychology, it's also health itself and nutrition (e. g. sport, sleep, stress, hormones, ...)
+- **Travel & Hiking**: I only discovered my enthusiasm for traveling and hiking in my mid-20s. One of my goals in life is to have traveled to as many countries as possible.
 
 <!---
 CrazyChair69/CrazyChair69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
