@@ -5,7 +5,7 @@ I'm Christian.<br />
 I am an SAP developer in Germany.<br />
 In my spare time I do web development and other things (for example Python projects).<br />
 <br />
-For more information about myself, see my website: http://www.christian-schwanse.com<br />
+For more information about myself, see my website: https://www.christian-schwanse.com<br />
 <br />
 I am open to job offers!<br />
 You can reach me at: christian-schwanse (at) gmx.net<br />
