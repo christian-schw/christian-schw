@@ -16,8 +16,8 @@ You can reach me at: christian-schwanse (at) gmx.net<br />
 - **Gymnasium Parsberg**: Intership in the secretarial department
 - **Several mini-jobs** (e.g. as a cashier).... the money had to come from somewhere during my studies :wink:
 ## Education
-- **Study: Business Informatics**. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
-- **Study: Business Psychology**. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
+- **Study: Business Informatics (Ostbayerische Technische Hochschule, Regensburg)**. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
+- **Study: Business Psychology (Hochschule Fresenius, Idstein)**. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
 - **SAP Press Books**: Read and implemented several SAP books (e. g. "ABAP - Das umfassende Handbuch", "SAP Interactive Forms by Adobe", "ABAP-Entwicklung in Eclipse", ...)
 - **Certificate: "ABAP für Fortgeschrittene"** from Technische Hochschule Brandenburg
 - **Certificate: "Computational Thinking using Python"** from Massachussetts Institute of Technology (MITx)
