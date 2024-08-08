@@ -20,7 +20,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br />
 - **Study: Business Psychology**. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
 - **SAP Press Books**: Read and implemented several SAP books (e. g. "ABAP - Das umfassende Handbuch", "SAP Interactive Forms by Adobe", "ABAP-Entwicklung in Eclipse", ...)
 - **Certificate: "ABAP für Fortgeschrittene"** from Technische Hochschule Brandenburg
-- **Certificate: "Computational Thinking using Python"** from Massachussets Institute of Technology (MITx) on platform Edx
+- **Certificate: "Computational Thinking using Python"** from Massachussetts Institute of Technology (MITx) on platform Edx
 - **Certificate: "Human-Computer-Interaction I: Fundamentals & Design Principles"** from Georgia Tech (GTx) on platform Edx
 - **Certificate: "First Aid"** from volunteer fire department
 - **Certificate: "Front-End Web Developer"** from World Wide Web Consortium (W3Cx) on platform Edx
