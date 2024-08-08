@@ -32,7 +32,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br />
 - **Gaming & Animes**: I spent a lot of my childhood and youth playing video games. Whether it was Pokemon, Mario, Call of Duty or Dark Souls - it was all there. These days, I rarely play games. I also watch all kinds of anime. My favorites: One Piece, Naruto, Bleach, HunterxHunter, World Trigger and Code Geass.
 - **Psychology**: I find it very interesting how people perceive the world, communicate with each other and form their identities over the course of their lives. How hormones and our situation influence our thoughts, feelings and actions, both consciously and unconsciously.
 - **Health & Nutrition**: There are many things about the human body that fascinate me. In addition to psychology, it's also health itself and nutrition (e. g. sport, sleep, stress, hormones, ...)
-- **Travel & Hiking**: I only discovered my enthusiasm for traveling and hiking in my mid-20s. One of my goals in life is to have traveled to as many countries as possible.
+- **Travel & Hiking**: I discovered my enthusiasm for traveling and hiking in my mid-20s. One of my goals in life is to have traveled to as many countries as possible.
 
 <!---
 CrazyChair69/CrazyChair69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
