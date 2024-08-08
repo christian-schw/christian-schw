@@ -11,7 +11,7 @@ I am open to job offers!<br />
 You can reach me at: christian-schwanse (at) gmx.net<br />
 
 ## Work
-- **Bock 1 GmbH & Co. KG**: Currently employed as a SAP developer. Completed training as an IT specialist in application development at Bock. My specialization is in the area of SAP. Projects included the SAP rollout in Canada, dynamic programming, form development (Adobe Forms) in all possible SAP modules as well as interface management between SAP and the Quipsy QM software.
+- **Bock 1 GmbH & Co. KG**: Currently employed as a SAP developer. Completed training as an IT specialist in application development at Bock. My specialization is in the area of SAP. Projects included the SAP rollout in Canada, dynamic programming, form development (Adobe Forms) in all possible SAP modules as well as interface administration between SAP and the Quipsy QM software.
 - **Silberhorn Blechtechnik GmbH**: Internship in quality management
 - **Gymnasium Parsberg**: Intership in the secretarial department
 - **Several mini-jobs** (e.g. as a cashier).... the money had to come from somewhere during my studies :wink:
