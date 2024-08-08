@@ -1,5 +1,5 @@
 # About me
-Hello visitor!<br />
+Hello, lovely visitor!<br />
 I'm Christian.<br />
 <br />
 I am a SAP developer in Germany.<br />
