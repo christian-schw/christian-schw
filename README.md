@@ -3,7 +3,7 @@ Hello, lovely visitor!<br />
 I'm Christian.<br />
 <br />
 I am a SAP developer in Germany.<br />
-In my spare time I do web development and other things (for example Python projects).<br />
+In my spare time I do web development and other things.<br />
 <br />
 For more information about myself, see my website: https://www.christian-schwanse.com<br />
 <br />
