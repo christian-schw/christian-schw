@@ -24,10 +24,9 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 ## I'm currently working on :wrench:
 - Completing IBM's course "DevOps and Software Engineering"
 - Learning React, TypeScript, Tailwind CSS, Jest and Jasmine
-<br>
-<br>
 
-TODOOOOOOOOOOOOOOOOO: Noch Animation mit Schlange und Commits einfügen!
+![Snake animation](https://raw.githubusercontent.com/CrazyChair69/CrazyChair69/output/github-contribution-grid-snake-dark.svg)
+
 
 ## Work Experience :briefcase:
 - **Bock 1 GmbH & Co. KG** (09/2022 - Present): Currently employed as a SAP developer. Almost completed training as an IT specialist in application development at Bock. My specialization is in the area of SAP. Projects included the SAP rollout in Canada, dynamic programming, form development (Adobe Forms) in all possible SAP modules as well as interface administration between SAP and the QM software Quipsy.
