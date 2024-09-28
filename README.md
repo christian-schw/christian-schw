@@ -27,7 +27,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 <br>
 <br>
 
-
+TODOOOOOOOOOOOOOOOOO: Noch Animation mit Schlange und Commits einfügen!
 
 ## Work Experience :briefcase:
 - **Bock 1 GmbH & Co. KG** (09/2022 - Present): Currently employed as a SAP developer. Almost completed training as an IT specialist in application development at Bock. My specialization is in the area of SAP. Projects included the SAP rollout in Canada, dynamic programming, form development (Adobe Forms) in all possible SAP modules as well as interface administration between SAP and the QM software Quipsy.
@@ -50,6 +50,14 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 - **Study: Business Informatics** (10/2018 - 02/2020): At Ostbayerische Technische Hochschule, Regensburg. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
 <br>
 <br>
+
+
+
+## Skills :computer:
+![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<br>
+<br>
+
 
 
 ## Interests & Hobbies :soccer:
