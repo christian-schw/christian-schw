@@ -1,17 +1,24 @@
 ![banner_software_dev](https://github.com/user-attachments/assets/537eefcf-0cce-422d-ad9e-b2b73420ea1f)
 
 
-# About me
-Hello, lovely visitor!<br />
-I'm Christian.<br />
-<br />
-I am a SAP developer in Germany.<br />
-In my spare time I do web development and other things.<br />
-<br />
-For more information about myself, see my website: https://www.christian-schwanse.com<br />
-<br />
-I am open to job offers!<br />
-You can reach me at: christian-schwanse (at) gmx.net<br />
+<h3 align="center">
+Hi there, I'm Christian 👋
+</h3>
+
+<h2 align="center">
+I'm a Professional SAP and Hobby Web Developer 💻
+</h2>
+
+I have a wide range of interests: From software development and psychology to sports and nutrition and much more.<br>
+I am currently doing a course from IBM on DevOps and software engineering.<br>
+<br>
+For more information about myself, see my website: https://www.christian-schwanse.com<br>
+<br>
+I am open to job offers!<br>
+You can reach me at: christian-schwanse (at) gmx.net<br>
+<br>
+<br>
+
 
 ## Work
 - **Bock 1 GmbH & Co. KG**: Currently employed as a SAP developer. Completed training as an IT specialist in application development at Bock. My specialization is in the area of SAP. Projects included the SAP rollout in Canada, dynamic programming, form development (Adobe Forms) in all possible SAP modules as well as interface administration between SAP and the QM software Quipsy.
