@@ -20,6 +20,14 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 <br>
 
 
+
+## I'm currently working on :wrench:
+- Completing IBM's course "DevOps and Software Engineering"
+- Learning React, TypeScript, Tailwind CSS, Jest and Jasmine
+<br>
+<br>
+
+
 ## Work
 - **Bock 1 GmbH & Co. KG**: Currently employed as a SAP developer. Completed training as an IT specialist in application development at Bock. My specialization is in the area of SAP. Projects included the SAP rollout in Canada, dynamic programming, form development (Adobe Forms) in all possible SAP modules as well as interface administration between SAP and the QM software Quipsy.
 - **Silberhorn Blechtechnik GmbH**: Internship in quality management
