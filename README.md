@@ -1,3 +1,6 @@
+![banner_software_dev](https://github.com/user-attachments/assets/537eefcf-0cce-422d-ad9e-b2b73420ea1f)
+
+
 # About me
 Hello, lovely visitor!<br />
 I'm Christian.<br />
