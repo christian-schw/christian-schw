@@ -40,23 +40,23 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 
 ## Education :mortar_board:
-- **Study: Business Informatics**. At Ostbayerische Technische Hochschule, Regensburg. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
-- **Study: Business Psychology**. At Hochschule Fresenius, Idstein. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
-- **SAP Press Books**: Read and implemented several SAP books (e. g. "ABAP - Das umfassende Handbuch", "SAP Interactive Forms by Adobe", "ABAP-Entwicklung in Eclipse", ...)
-- **Certificate: "ABAP für Fortgeschrittene"** from Technische Hochschule Brandenburg
-- **Certificate: "Computational Thinking using Python"** from Massachussetts Institute of Technology (MITx)
-- **Certificate: "Human-Computer-Interaction I: Fundamentals & Design Principles"** from Georgia Tech (GTx)
-- **Certificate: "First Aid"** from volunteer fire department
-- **Certificate: "Front-End Web Developer"** from World Wide Web Consortium (W3Cx)
+- **Certificate: "DevOps and Software Engineering"** from IBM (IBMx, In Progress)
+- **Certificate: "Front-End Web Developer"** from World Wide Web Consortium (W3Cx, Issued: 05/2024)
+- **Certificate: "First Aid"** from Volunteer Fire Department (Issued: 04/2024)
+- **Certificate: "ABAP für Fortgeschrittene"** from Technische Hochschule Brandenburg (Issued: 07/2023)
+- **Certificate: "Human-Computer-Interaction I: Fundamentals & Design Principles"** from Georgia Tech (GTx, Issued: 12/2021)
+- **Certificate: "Computational Thinking using Python"** from Massachussetts Institute of Technology (MITx, Issued: 12/2021)
+- **Study: Business Psychology** (02/2020 - 11/2021): At Hochschule Fresenius, Idstein. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
+- **Study: Business Informatics** (10/2018 - 02/2020): At Ostbayerische Technische Hochschule, Regensburg. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
 <br>
 <br>
 
 
 ## Interests & Hobbies :soccer:
-- **Soccer**: I enjoy playing and following football. However, many years ago I had to end my career in the farmers' league due to an injury.
-- **Volleyball**: My love of volleyball blossomed during my time in the school team. I now often play beach volleyball with friends in the summer and am also active in the recreational volleyball team TV Velburg.
-- **Fire Department**: Growing up as a member of the volunteer fire department in my own village. More active as a passive member. Exception: Fire department festivals to actively support the village in putting out "fires". :wink:
-- **Gaming & Animes**: I spent a lot of my childhood and youth playing video games. Whether it was Pokemon, Mario, Call of Duty or Dark Souls - it was all there. These days, I rarely play games. I also watch all kinds of anime. My favorites: One Piece, Naruto, Bleach, HunterxHunter, World Trigger and Code Geass.
-- **Psychology**: I find it very interesting how people perceive the world, communicate with each other and form their identities over the course of their lives. How hormones and our situation influence our thoughts, feelings and actions, both consciously and unconsciously.
-- **Health & Nutrition**: There are many things about the human body that fascinate me. In addition to psychology, it's also health itself and nutrition (e. g. sport, sleep, stress, hormones, ...)
-- **Travel & Hiking**: I discovered my enthusiasm for traveling and hiking in my mid-20s. One of my goals in life is to have traveled to as many countries as possible.
+- Soccer
+- Volleyball
+- Fire Department
+- Gaming & Animes
+- Psychology
+- Health & Nutrition
+- Travel & Hiking
