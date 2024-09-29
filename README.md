@@ -1,9 +1,16 @@
 ![banner_software_dev](https://github.com/user-attachments/assets/537eefcf-0cce-422d-ad9e-b2b73420ea1f)
 
-
-<h3 align="center">
-Hi there, I'm Christian :wave:
-</h3>
+<!-- 
+    Use 'user-content-toc' to override default style of GitHub. 
+    No horizontal line should be displayed! 
+-->
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi there, I'm Christian :wave:</h1>
+    </summary>
+  </ul>
+</div>
 
 <h2 align="center">
 I'm a Professional SAP and Hobby Web Developer :computer:
