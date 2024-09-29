@@ -52,8 +52,8 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 - **Certificate: "ABAP für Fortgeschrittene"** from Technische Hochschule Brandenburg (Issued: 07/2023)
 - **Certificate: "Human-Computer-Interaction I: Fundamentals & Design Principles"** from Georgia Tech (GTx, Issued: 12/2021)
 - **Certificate: "Computational Thinking using Python"** from Massachussetts Institute of Technology (MITx, Issued: 12/2021)
-- **Study: Business Psychology** (02/2020 - 11/2021): At Hochschule Fresenius, Idstein. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
-- **Study: Business Informatics** (10/2018 - 02/2020): At Ostbayerische Technische Hochschule, Regensburg. Studied for a couple of semesters and then voluntarily dropped out because the practice was missing for me.
+- **Study: Business Psychology** (02/2020 - 11/2021): At Hochschule Fresenius, Idstein.
+- **Study: Business Informatics** (10/2018 - 02/2020): At Ostbayerische Technische Hochschule, Regensburg.
 <br>
 <br>
 
