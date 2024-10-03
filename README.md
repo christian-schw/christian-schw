@@ -32,7 +32,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 - Completing IBM's course "DevOps and Software Engineering"
 - Learning React, TypeScript, Tailwind CSS, Jest and Jasmine
 
-![Snake animation](https://raw.githubusercontent.com/CrazyChair69/CrazyChair69/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/christian-schw/christian-schw/output/github-contribution-grid-snake-dark.svg)
 
 
 ## Work Experience :briefcase:
