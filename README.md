@@ -47,6 +47,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 ## Education :mortar_board:
 - **Certificate: "DevOps and Software Engineering"** from IBM (IBMx, In Progress)
+- **Certificate: "Developing Front End Apps with React"** from IBM (IBMx, Issued: 10/2024)
 - **Certificate: "Front-End Web Developer"** from World Wide Web Consortium (W3Cx, Issued: 05/2024)
 - **Certificate: "First Aid"** from Volunteer Fire Department (Issued: 04/2024)
 - **Certificate: "ABAP für Fortgeschrittene"** from Technische Hochschule Brandenburg (Issued: 07/2023)
@@ -60,6 +61,8 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 
 ## Skills :computer:
+List is incomplete. There are surprises... :wink:<br>
+
 ![image](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![image](https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white)
@@ -76,6 +79,8 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![image](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
