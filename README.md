@@ -17,9 +17,7 @@ I'm a Professional SAP and Hobby Web Developer :computer:
 </h2>
 
 I have a wide range of interests: From software development and psychology to sports and nutrition and much more.<br>
-I am currently doing a course from IBM on DevOps and software engineering.<br>
-<br>
-For more information about myself, see my website: https://www.christian-schwanse.com<br>
+For more information about myself, see below or my website: https://www.christian-schwanse.com<br>
 <br>
 I am open to job offers!<br>
 You can reach me at: christian-schwanse (at) gmx.net<br>
@@ -29,14 +27,14 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 
 ## I'm currently working on :wrench:
-- Completing IBM's course "DevOps and Software Engineering"
-- Learning React, TypeScript, Tailwind CSS, Jest and Jasmine
+- Completing IBM's program "DevOps and Software Engineering"
+- Building a Full Stack Single-Page Application: Pokemon Shop - Trainer's Trove
 
 ![Snake animation](https://raw.githubusercontent.com/christian-schw/christian-schw/output/github-contribution-grid-snake-dark.svg)
 
 
 ## Work Experience :briefcase:
-- **Bock 1 GmbH & Co. KG** (09/2022 - Present): Currently employed as a SAP developer. Almost completed training as an IT specialist in application development at Bock. My specialization is in the area of SAP. Projects included the SAP rollout in Canada, dynamic programming, form development (Adobe Forms) in all possible SAP modules as well as interface administration between SAP and the QM software Quipsy.
+- **Bock 1 GmbH & Co. KG** (09/2022 - Present): Currently employed as a SAP developer. Almost completed training as an IT specialist in application development at Bock. My specialization is in the area of SAP. Projects included the SAP rollout in Canada, database development and administration, form development in all possible SAP modules, interface administration between SAP and the QM software Quipsy and much more.
 - **Silberhorn Blechtechnik GmbH** (03/2017 - 07/2017): Internship in quality management
 - **Gymnasium Parsberg** (09/2016 - 02/2017): Intership in the secretarial department
 - **Several mini-jobs** (e.g. as a cashier).... the money had to come from somewhere during my studies :wink:
