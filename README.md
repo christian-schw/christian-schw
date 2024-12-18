@@ -45,6 +45,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 ## Education :mortar_board:
 - **Certificate: "DevOps and Software Engineering"** from IBM (IBMx, In Progress)
+- **Certificate: "Networking and Storage Essentials"** from IBM (IBMx, Issued: 11/2024)
 - **Certificate: "Developing Front End Apps with React"** from IBM (IBMx, Issued: 10/2024)
 - **Certificate: "Front-End Web Developer"** from World Wide Web Consortium (W3Cx, Issued: 05/2024)
 - **Certificate: "First Aid"** from Volunteer Fire Department (Issued: 04/2024)
