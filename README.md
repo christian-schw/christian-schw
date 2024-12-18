@@ -21,6 +21,9 @@ For more information about myself, see below or my website: https://www.christia
 <br>
 I am open to job offers!<br>
 You can reach me at: christian-schwanse (at) gmx.net<br>
+
+![Snake animation](https://raw.githubusercontent.com/christian-schw/christian-schw/output/github-contribution-grid-snake-dark.svg)
+
 <br>
 <br>
 
@@ -30,7 +33,11 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 - Completing IBM's program "DevOps and Software Engineering"
 - Building a Full Stack Single-Page Application: Pokemon Shop - Trainer's Trove
 
-![Snake animation](https://raw.githubusercontent.com/christian-schw/christian-schw/output/github-contribution-grid-snake-dark.svg)
+![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian-schw&theme=github_dark)
+
+<br>
+<br>
+
 
 
 ## Work Experience :briefcase:
