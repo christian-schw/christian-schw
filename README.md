@@ -13,7 +13,7 @@
 </div>
 
 <h2 align="center">
-I'm a Professional SAP and Hobby Web Developer :computer:
+I'm a Professional SAP and Hobby Developer :computer:
 </h2>
 
 I have a wide range of interests: From software development and psychology to sports and nutrition and much more.<br>
