@@ -30,7 +30,6 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 
 ## I'm currently working on :wrench:
-- Completing IBM's program "DevOps and Software Engineering"
 - Building a Full Stack Single-Page Application: Pokemon Shop - Trainer's Trove
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christian-schw&theme=github_dark)
@@ -51,7 +50,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 
 ## Education :mortar_board:
-- **Certificate: "DevOps and Software Engineering"** from IBM (IBMx, In Progress)
+- **Certificate: "DevOps and Software Engineering"** from IBM (IBMx, Issued: 01/2025)
 - **Certificate: "Networking and Storage Essentials"** from IBM (IBMx, Issued: 11/2024)
 - **Certificate: "Developing Front End Apps with React"** from IBM (IBMx, Issued: 10/2024)
 - **Certificate: "Front-End Web Developer"** from World Wide Web Consortium (W3Cx, Issued: 05/2024)
