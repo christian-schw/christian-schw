@@ -40,7 +40,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 
 ## Work Experience :briefcase:
-- **Bock 1 GmbH & Co. KG** (09/2022 - Present): Currently employed as a SAP developer. Almost completed training as an IT specialist in application development at Bock. Projects included the SAP rollout in Canada, database development and administration, form development in all possible SAP modules, interface administration between SAP and the QM software Quipsy and much more.
+- **Bock 1 GmbH & Co. KG** (09/2022 - Present): Currently employed as a SAP developer. Completed training as an IT specialist in application development at Bock. Projects included the SAP rollout in Canada, database development and administration, form development in all possible SAP modules, interface administration between SAP and the QM software Quipsy and much more.
 - **Silberhorn Blechtechnik GmbH** (03/2017 - 07/2017): Internship in quality management
 - **Gymnasium Parsberg** (09/2016 - 02/2017): Intership in the secretarial department
 - **Several mini-jobs** (e.g. as a cashier).... the money had to come from somewhere during my studies :wink:
