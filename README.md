@@ -17,9 +17,6 @@ I'm a Professional SAP and Hobby Developer :computer:
 </h2>
 
 I have a wide range of interests: From software development and psychology to sports and nutrition and much more.<br>
-For more information about myself, see below or my website: https://www.christian-schwanse.com<br>
-<br>
-I am open to job offers!<br>
 You can reach me at: christian-schwanse (at) gmx.net<br>
 
 ![Snake animation](https://raw.githubusercontent.com/christian-schw/christian-schw/output/github-contribution-grid-snake-dark.svg)
