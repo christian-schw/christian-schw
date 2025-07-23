@@ -64,7 +64,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 
 ## Skills :computer:
-List is incomplete. There are surprises... :wink:<br>
+List is incomplete. Be careful of rust on things I haven't touched in a long time. :wink:<br>
 
 ![image](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
