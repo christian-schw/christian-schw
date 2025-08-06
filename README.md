@@ -48,6 +48,7 @@ You can reach me at: christian-schwanse (at) gmx.net<br>
 
 
 ## Education :mortar_board:
+- **Certificate: "SAP Certified Associate - Back-End Developer - ABAP Cloud"** from SAP (Issued: 08/2025, valid until: 08/2026)
 - **Certificate: "DevOps and Software Engineering"** from IBM (IBMx, Issued: 01/2025)
 - **Certificate: "Networking and Storage Essentials"** from IBM (IBMx, Issued: 11/2024)
 - **Certificate: "Developing Front End Apps with React"** from IBM (IBMx, Issued: 10/2024)
